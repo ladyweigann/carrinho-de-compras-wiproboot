@@ -1,4 +1,4 @@
-#Primeiro projeto para bootcamp wipro (oferecido pela Gama Academy)
+# Primeiro projeto para bootcamp wipro (oferecido pela Gama Academy)
 
 Projeto consiste uma simples programa de carrinhos de compras que devem atender os seguintes requisitos:
 
